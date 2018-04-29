@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyStory</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_task">Add Story</string>
+    <string name="btnAdd">Create Story</string>
+    <string name="hintTitle">Give me a title</string>
+    <string name="hintContent">Tell me your story . . .</string>
+</resources>
